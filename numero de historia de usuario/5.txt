@@ -1,1 +1,3 @@
 Como supervisor de la central puedo registrarme en la aplicación para poder ubicar los taxis que están registrado a mi central
+
+cambio para tag
