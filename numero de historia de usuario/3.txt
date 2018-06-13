@@ -1,0 +1,2 @@
+Como chofer puede registrarse en la aplicación para poder usar la aplicación 
+Condición de aceptación: debe ingresar el email valido, la contraseña debe tener 8 caracteres valido por lómenos una mayúscula y una minúscula

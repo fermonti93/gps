@@ -1,0 +1,2 @@
+Como supervisor de central yo puedo  ubicar los distintos taxis para poder saber cuál y donde están los taxis libre, ocupados y fuera de servicio 
+Criterio de aceptación  tiene q ser por página web, los distintos estados debe estar representado pro distintos colores
